@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 375">
-<rect width="480" height="375" fill="#263e34"/>
-<g fill="none" stroke="#d9b97d"><rect x="12" y="12" width="456" height="351" rx="4" stroke-width="2"/><rect x="20" y="20" width="440" height="335"/><ellipse cx="240" cy="187.5" rx="163" ry="123"/><ellipse cx="240" cy="187.5" rx="135" ry="103" stroke-dasharray="1 9"/></g>
-<g fill="#f8dfae"><path d="M240 118Q248 177 307 187Q248 197 240 257Q232 197 173 187Q232 177 240 118Z"/><circle cx="151" cy="140" r="4"/><circle cx="329" cy="141" r="4"/><circle cx="151" cy="234" r="4"/><circle cx="329" cy="234" r="4"/></g>
-</svg>
